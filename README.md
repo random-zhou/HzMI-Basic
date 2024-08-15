@@ -1,5 +1,6 @@
 # HzMI-Basic
-赫兹矩阵创新实验室基础教程
+- 赫兹矩阵创新实验室基础教程
+
 ![alt text](<HzMI logo.jpg>)
 
 
